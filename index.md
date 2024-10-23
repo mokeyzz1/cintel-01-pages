@@ -1,4 +1,4 @@
-# Welcome to my Webinar 
+# Welcome to my Website 
 
 My first website using Markdown and GitHub Pages.
 
